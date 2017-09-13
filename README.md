@@ -1,6 +1,6 @@
 # awesomepos
 
-> A Vue.js project
+> 基于vue2.js创建的一个后台管理界面
 
 ## Build Setup
 
